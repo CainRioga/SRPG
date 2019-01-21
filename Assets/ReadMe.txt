@@ -1,1 +1,1 @@
-SRPG
+SRPG Game
